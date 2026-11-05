@@ -1,0 +1,10 @@
+[
+  {
+    "pesoToneladas": 3.0,
+    "mantencionAlDia": true,
+    "certificacionSeguridad": false,
+    "codigo": "f34234",
+    "horasUso": 34,
+    "potencia": 34.0
+  }
+]
